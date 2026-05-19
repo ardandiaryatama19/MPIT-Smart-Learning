@@ -50,4 +50,4 @@ Project masih dalam tahap pengembangan.
 ---
 
 ## Author
-Ardandi Aryatama
+Moch. Pandu Wicaksono, Bhamana Artantyo, Ardandi Ilham Aryatama
